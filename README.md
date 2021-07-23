@@ -33,7 +33,7 @@ If you have tested any versions that are not on this list or have the question m
 
 ## Using the installation scripts
 
-To use the installation scripts  run  both these command as root.
+To use the installation scripts  run  both these command as root. (first make sure you have curl by doing ' sudo apt install curl ')
 ```bash
 curl -Lo install.sh https://raw.githubusercontent.com/HarryWheat/CPPSInstallScript/main/install.sh
 ```
