@@ -22,7 +22,9 @@ List of supported installation setups for panel and Wings (installations support
 
 | Operating System | Version | Is it supported?      
 | ---------------- | ------- | ------------------
-| Ubuntu           | 14.04   | :red_circle:      
-|                  | 16.04   | :red_circle: \*   
-|                  | 18.04   | :white_check_mark: 
-|                  | 20.04   | :red_check_mark:   
+| Ubuntu           | 14.04   | ❔     
+|                  | 16.04   | ❔  
+|                  | 18.04   | 🟢 
+|                  | 20.04   | ❔
+
+If you have tested any versions that are not on this list or have the question mark please contact HarryW#0001 evem if the script didn't work on that version. 
