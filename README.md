@@ -4,7 +4,7 @@ Unofficial scripts for installing Club Penguin Private Servers!
 
 Read more about Wand/Houdini here. This script is not associated with the official Wand Project.
 
-See how to install it down below.
+To see how to install it scroll down to Installation.
 
 ## Features
 
@@ -31,7 +31,7 @@ List of supported installation setups for panel and Wings (installations support
 
 If you have tested any versions that are not on this list or have the question mark please contact HarryW#0001 on Discord even if the script didn't work on that version. 
 
-## Using the installation scripts
+## Installation
 
 To use the installation scripts  run  both these command as root. (first make sure you have curl by doing ' apt install curl ' and then restarting the VPS/Server)
 ```bash
