@@ -6,5 +6,5 @@ git clone --recurse-submodules https://github.com/solero/wand && cd wand
 sudo ufw allow 80
 sudo ufw allow 6112
 sudo ufw allow 443
-echo "Everything is ready now your CPPS is ready! The directory is located in the wand folder you can get there by doing 'cd wand' You can change your conf file by doing 'nano .env' You can start it by doing 'sudo docker-compose up'! Your CPPS will come with a default user (Username - Basil / Password - password)
+echo Everything is ready now your CPPS is ready! The directory is located in the wand folder you can get there by doing 'cd wand' You can change your config file by doing 'nano .env' You can start it by doing 'sudo docker-compose up'! Your CPPS will come with a default user Username - Basil / Password - password
 exit 0
