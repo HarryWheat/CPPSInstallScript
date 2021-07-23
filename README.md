@@ -1,8 +1,10 @@
-# CPPSInstallScript
+# 🐧 CPPSInstallScript 🐧
 
 Unofficial scripts for installing Club Penguin Private Servers!
 
 Read more about Wand/Houdini here. This script is not associated with the official Wand Project.
+
+See how to install it down below.
 
 ## Features
 
