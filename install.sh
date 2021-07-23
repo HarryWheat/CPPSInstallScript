@@ -16,6 +16,7 @@ if [[ $EUID -ne 0 ]]; then
   echo "* This script must be executed with root privileges (sudo)." 1>&2
   exit 1
 fi
+echo "* Install Script Version - 0.1"
 echo "* This install script must be installed on Ubuntu 18 to avoid errors."
 echo "* Make sure you are using this on a clean VPS (nothing installed on it)."
 echo "* Pick an option!."
