@@ -27,7 +27,7 @@ List of supported installation setups for panel and Wings (installations support
 | Ubuntu           | 14.04   | ❔     
 |                  | 16.04   | ❔  
 |                  | 18.04   | 🟢 
-|                  | 20.04   | ❔
+|                  | 20.04   | 🔴
 
 If you have tested any versions that are not on this list or have the question mark please contact HarryW#0001 on Discord even if the script didn't work on that version. 
 
