@@ -2,7 +2,7 @@
 
 Unofficial scripts for installing Club Penguin Private Servers!
 
-Read more about Pterodactyl here. This script is not associated with the official Pterodactyl Project.
+Read more about Wand/Houdini here. This script is not associated with the official Wand Project.
 
 ## Features
 
