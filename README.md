@@ -1,4 +1,4 @@
-# 🐧 CPPSInstallScript 🐧
+# 🐧 CPPS Install Script 🐧
 
 Unofficial scripts for installing Club Penguin Private Servers!
 
