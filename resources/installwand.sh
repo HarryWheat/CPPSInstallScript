@@ -7,7 +7,12 @@ sudo ufw allow 80
 sudo ufw allow 6112
 sudo ufw allow 443
 echo "--------------------"
-echo "Now it is time to edit our configuration file :), Edit the configuration by changing the domain to your domain and by changing the database password after that you can start your CPPS by doing 'sudo docker-compose up / Your CPPS will come with one default user 'Basil' with the password 'password'"
+echo "Now it is time to edit our configuration file :), Edit the configuration by changing the domain to your domain and by changing the database password.
 echo "--------------------"
-sleep 5s
+echo Please wait for the config file to load
+sleep 3s
+nano .env
+echo "--------------------"
+echo "Everything is ready now your CPPS is ready! You can start it by doing 'sudo docker-compose up'! Your CPPS will come with a default user (Username - Basil / Password - password)
+echo "--------------------"
 exit 0
