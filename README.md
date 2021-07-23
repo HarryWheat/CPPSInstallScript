@@ -14,7 +14,7 @@ To see how to install it scroll down to Installation.
 
 ## Help and support
 
-For help and support regarding the script itself and **not the official Wand**, you can contact the creator of the script on discord @ HarryW#0001.
+For help and support regarding the script itself and **not the official Wand**, you can join our discord server @ https://discord.gg/7Wqax63MDD
 
 ## Supported installations
 
