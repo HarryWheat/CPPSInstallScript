@@ -33,10 +33,7 @@ If you have tested any versions that are not on this list or have the question m
 
 ## Installation
 
-To use the installation scripts  run  both these command as root. (first make sure you have curl by doing ' apt install curl ' and then restarting the VPS/Server)
+To use the installation scripts  run this single command as root. (first make sure you have curl by doing ' apt install curl ' and then restarting the VPS/Server)
 ```bash
-curl -Lo install.sh https://raw.githubusercontent.com/HarryWheat/CPPSInstallScript/main/install.sh
-```
-```bash
-sudo bash install.sh
+curl -Lo install.sh https://raw.githubusercontent.com/HarryWheat/CPPSInstallScript/main/install.sh && sudo bash install.sh
 ```
