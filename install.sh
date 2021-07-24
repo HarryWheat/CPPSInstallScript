@@ -26,7 +26,7 @@ read -p "Please enter a number: " choice
 if [ $choice == "1" ]
     then
     echo "Installing Wand/CPPS"
-    bash <(curl -sSL https://raw.githubusercontent.com/HarryWheat/CPPSInstallScript/main/resources/installwand.sh)
+    bash <(curl -sSL https://raw.githubusercontent.com/IAmHarryWDev/CPPSInstallScript/main/resources/installwand.sh)
 fi
 if [ $choice == "2" ]
     then
